@@ -1,6 +1,6 @@
 # Booking Microservices API  
 
-This project is a **Booking Microservices API** built in C# using **.NET Core**.
+This project is a **Booking Microservices API** built in C# using **.NET Framework**.
 
 ## The goals of this project 
 - Use layered architecture and repository pattern to build 5 microservices.
